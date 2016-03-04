@@ -1,0 +1,8 @@
+E:\BookSurfing\BookSurfing\bin\Debug\BookSurfing.exe
+E:\BookSurfing\BookSurfing\bin\Debug\BookSurfing.pdb
+E:\BookSurfing\BookSurfing\obj\x86\Debug\BookSurfing.MainForm.resources
+E:\BookSurfing\BookSurfing\obj\x86\Debug\BookSurfing.Properties.Resources.resources
+E:\BookSurfing\BookSurfing\obj\x86\Debug\BookSurfing.csproj.GenerateResource.Cache
+E:\BookSurfing\BookSurfing\obj\x86\Debug\BookSurfing.exe
+E:\BookSurfing\BookSurfing\obj\x86\Debug\BookSurfing.pdb
+E:\BookSurfing\BookSurfing\obj\x86\Debug\BookSurfing.csprojResolveAssemblyReference.cache

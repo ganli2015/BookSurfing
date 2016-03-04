@@ -1,0 +1,11 @@
+E:\BookSurfing\BookSurfing\bin\Release\BookSurfing.exe
+E:\BookSurfing\BookSurfing\bin\Release\BookSurfing.pdb
+E:\BookSurfing\BookSurfing\obj\x86\Release\BookSurfing.MainForm.resources
+E:\BookSurfing\BookSurfing\obj\x86\Release\BookSurfing.Properties.Resources.resources
+E:\BookSurfing\BookSurfing\obj\x86\Release\BookSurfing.csproj.GenerateResource.Cache
+E:\BookSurfing\BookSurfing\obj\x86\Release\BookSurfing.exe
+E:\BookSurfing\BookSurfing\obj\x86\Release\BookSurfing.pdb
+E:\BookSurfing\BookSurfing\obj\x86\Release\BookSurfing.csprojResolveAssemblyReference.cache
+E:\BookSurfing\BookSurfing\bin\Release\HtmlAgilityPack.dll
+E:\BookSurfing\BookSurfing\bin\Release\HtmlAgilityPack.pdb
+E:\BookSurfing\BookSurfing\bin\Release\HtmlAgilityPack.xml

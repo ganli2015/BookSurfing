@@ -1,0 +1,11 @@
+E:\BookSurfing\Cinema\bin\Release\Cinema.exe
+E:\BookSurfing\Cinema\bin\Release\Cinema.pdb
+E:\BookSurfing\Cinema\bin\Release\HtmlAgilityPack.dll
+E:\BookSurfing\Cinema\bin\Release\HtmlAgilityPack.pdb
+E:\BookSurfing\Cinema\bin\Release\HtmlAgilityPack.xml
+E:\BookSurfing\Cinema\obj\x86\Release\Cinema.MainForm.resources
+E:\BookSurfing\Cinema\obj\x86\Release\Cinema.Properties.Resources.resources
+E:\BookSurfing\Cinema\obj\x86\Release\Cinema.csproj.GenerateResource.Cache
+E:\BookSurfing\Cinema\obj\x86\Release\Cinema.exe
+E:\BookSurfing\Cinema\obj\x86\Release\Cinema.pdb
+E:\BookSurfing\Cinema\obj\x86\Release\Cinema.csprojResolveAssemblyReference.cache
